@@ -1,0 +1,8 @@
+<resources>
+    <string name="LayoutsPro">LayoutsPRO</string>
+    <string name="title_activity_cardapio">CardapioActivity</string>
+    <string name="titulo">Sistemas VOX!</string>
+    <string name="botao1">Table Activity!</string>
+    <string name="botao2">Grid Activity!</string>
+    <string name="botao3">Scroll Activity!</string>
+</resources>
